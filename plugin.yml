@@ -1,0 +1,6 @@
+name: ChangeMOTD
+author: THXC
+api: 3.11.4
+main: THXC\MOTD\Changer
+description: Change your Server MOTD in the comfort of your server!
+version: 1.0
